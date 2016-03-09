@@ -1,0 +1,25 @@
+{
+  "name": "alcoholic-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate using Gulp, Sass, Bourbon, Neat, Bitters, and BrowserSync",
+  "main": "index.js",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/lukefiji/alcoholic-boilerplate"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "bourboun",
+    "neat",
+    "boilerplate"
+  ],
+  "author": "Luke Fiji",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
